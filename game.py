@@ -68,7 +68,7 @@ while running:
         badguys.append([640,random.randint(50,430)])
         badtimer=100-badtimer1
         if badtimer1>=35:
-w            badtimer1=35
+           badtimer1=35
         else:
             badtimer1+=5
     index=0
